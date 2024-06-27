@@ -3,7 +3,7 @@ import Home from '@/pages/Home.vue';
 import Education from '@/pages/Education.vue';
 import Skills from '@/pages/Skills.vue';
 import Experience from '@/pages/Experience.vue';
-import Resume from '@/pages/Resume.vue';
+import Interests from '@/pages/Interests.vue';
 import Layout from '@/layouts/Layout.vue';
 
 const routes = [
@@ -15,7 +15,7 @@ const routes = [
             { path: 'education', name: 'Education', component: Education },
             { path: 'skills', name: 'Skills', component: Skills },
             { path: 'experience', name: 'Experience', component: Experience },
-            { path: 'resume', name: 'Resume', component: Resume }
+            { path: 'interests', name: 'Interests', component: Interests }
         ]
     }
 ];

@@ -11,7 +11,7 @@
           <router-link class="font-semibold text-white-800 hover:text-indigo-900 hover:bg-purple-100 px-3 py-2 rounded" to="/experience">Experience
           </router-link>
           <router-link class="font-semibold text-white-800 hover:text-indigo-900 hover:bg-purple-100 px-3 py-2 rounded" to="/skills">Skills</router-link>
-          <router-link class="font-semibold text-white-800 hover:text-indigo-900 hover:bg-purple-100 px-3 py-2 rounded" to="/resume">Resume</router-link>
+          <router-link class="font-semibold text-white-800 hover:text-indigo-900 hover:bg-purple-100 px-3 py-2 rounded" to="/interests">Interests</router-link>
         </div>
       </div>
     </nav>
@@ -50,7 +50,7 @@
             class="text-indigo-900 hover:bg-gradient-to-r from-purple-900 to-indigo-900 rounded">
           <router-link
               class="font-semibold text-white-800 hover:text-white px-1 py-2 rounded"
-              to="/resume">Resume
+              to="/interests">Interests
           </router-link>
         </li>
       </ul>

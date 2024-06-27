@@ -1,24 +1,10 @@
 # jdmays-site-vue
 
-## Project setup
-```
-npm install
-```
+## Overview
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This is my jdmays.com website only in Vue.  The code is pretty trivial since there are no props to pass and no real data transformation is necessary.  It uses Vue Router for navigation.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+The purpose of this project was to demonstrate at least some minimal proficiency with Vue.
 
-### Lints and fixes files
-```
-npm run lint
-```
+I will be doing a more thorough Vue project in the future.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
